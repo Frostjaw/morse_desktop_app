@@ -1,3 +1,3 @@
 # morse_desktop_app
  
-Windows morse lesson applicationn
+Windows morse lesson application
